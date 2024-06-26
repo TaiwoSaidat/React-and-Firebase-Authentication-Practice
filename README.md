@@ -1,11 +1,6 @@
-# React + Vite
+# Firebase Signup / Login App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a signup/login app using google firebase authentication for web application. It is built using React JS, HTML, Tailwind and CSS.
 
 # React and Firebase Authentication
 clone the repo
@@ -15,14 +10,19 @@ Set up firebase for your project, get the sdk info and configure your '.env' fil
 
 # Preview Images 
 
+## Signup page
 ![Sign Up Page](sign-up-page.png) 
 
+## Login Page
 ![Log In Page](log-in-page.png)
 
+## Login error page
 ![Log In Error ](log-in-page-err-user-pass-1.png) 
 
+## Profile page logged in
 ![Profile Page Logged in ](profile-page.png)
 
+## Profile page when not logged in
 ![Profile Page When Not Logged In](profile-page-not-logged.png)  
 
 
