@@ -5,7 +5,7 @@ This is a signup/login app using google firebase authentication for web applicat
 # React and Firebase Authentication
 clone the repo
 
-Set up firebase for your project, get the sdk info and configure your '.env' fileand save
+Set up firebase for your project, get the sdk info and configure your '.env' file and save
 :bulb: check the 'sample.env' file for the structure of the env variables
 
 # Preview Images 

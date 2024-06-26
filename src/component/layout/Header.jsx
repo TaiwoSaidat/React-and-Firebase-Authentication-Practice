@@ -42,7 +42,7 @@ function Header() {
                         <li><a>Item 3</a></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl"><Link to='/' >Firebase Auth</Link></a>
+                <a className="btn btn-ghost text-xl"><Link to='/' >Example </Link></a>
             </div>
             {/* <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
@@ -60,14 +60,3 @@ function Header() {
 
 export default Header
 
-
-// <li>
-//                         <details>
-//                         <summary>Parent</summary>
-//                         <ul className="p-2">
-//                             <li><a>Submenu 1</a></li>
-//                             <li><a>Submenu 2</a></li>
-//                         </ul>
-//                         </details>
-//                     </li>
-//                     <li><a>Item 3</a></li>
